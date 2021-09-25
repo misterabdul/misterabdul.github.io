@@ -6,9 +6,7 @@ draft: false
 
 ![Foto Abdul](/images/misterabdul_avatar.jpg)
 
-Saya adalah seorang programmer professional yang sedang bekerja di sebuah perusahaan swasta di Medan, Sumatera Utara. Saya juga seorang mahasiswa aktif di kuliah di jurusan S1 Ilmu Komputer, Fakultas Ilmu Komputer dan Teknologi Informasi, Universitas Sumatera Utara, angkatan 2013.
-
-Saya sudah tertarik dengan dunia pemrograman dan _computer science_ semenjak saya pertama kali menyetuh komputer pertama kali saat masih kelas 6 SD. Hal yang pertama saya pikirkan saat menggunakan komputer adalah jika ada _software_ untuk membuat dokumen, persentasi, dan game, maka pastinya ada juga _software_ untuk membuat _software_. Dari situ saya mulai mencari tahu dan masuk lebih dalam ke dalam _rabbit hole_-nya dunia pemgrograman dan _computer science_.
+Saya adalah seorang programmer professional yang sedang bekerja di sebuah perusahaan swasta di Medan, Sumatera Utara. Saya sudah tertarik dengan dunia pemrograman dan _computer science_ semenjak saya pertama kali menyetuh komputer pertama kali saat masih kelas 6 SD. Hal yang pertama saya pikirkan saat menggunakan komputer adalah jika ada _software_ untuk membuat dokumen, persentasi, dan game, maka pastinya ada juga _software_ untuk membuat _software_. Dari situ saya mulai mencari tahu dan masuk lebih dalam ke dalam _rabbit hole_-nya dunia pemgrograman dan _computer science_.
 
 Saya sangat menyukai apapun yang berhubungan dengan pemrograman dan _computer science_. Di waktu-waktu luang saya, seringkali saya habiskan untuk membaca artikel-artikel ataupun video-video tentang pemrograman dan _computer science_. Bahasa pemrograman favorit saya sampai saat ini adalah **C** dikarenakan tingkat abstraksi bahasa tersebut seolah-olah hanya berada satu tingkat di atas bahasa mesin (_assembly_).
 
