@@ -1,3 +1,83 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseurl = "https://misterabdul.github.io"
+title = "Misterabdul"
+theme = "hugo-coder"
+languagecode = "id"
+defaultcontentlanguage = "id"
+
+paginate = 20
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+disqusShortname = "misterabdul"
+
+[params]
+  author = "Abdul Pasaribu"
+  info = "Programmer Biasa"
+  description = "Abdul Pasaribu's personal website"
+  keywords = "blog,developer,personal"
+  avatarurl = "/images/misterabdul_avatar.jpg"
+
+  favicon_96 = "/favicon-96x96.png"
+  favicon_32 = "/favicon-32x32.png"
+  favicon_16 = "/favicon-16x16.png"
+  favicon    = "/favicon.ico"
+
+  footercontent = "<i>Doscendo discimus.</i><br/>Dengan mengajar, kita belajar."
+  hideFooter = false
+  hideCredits = false
+  hideCopyright = false
+  since = 2021
+
+  enableTwemoji = true
+
+  colorScheme = "dark"
+  hidecolorschemetoggle = false
+
+[taxonomies]
+  category = "kategori"
+  series = "seri"
+  tag = "tag"
+  author = "penulis"
+
+# Social links
+[[params.social]]
+  name = "Linkedin"
+  icon = "fa fa-linkedin fa-2x"
+  weight = 1
+  url = "https://www.linkedin.com/in/abdulpasaribu/"
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/misterabdul/"
+[[params.social]]
+  name = "Facebook"
+  icon = "fa fa-facebook fa-2x"
+  weight = 1
+  url = "https://www.facebook.com/abdulrahmadpasaribu"
+[[params.social]]
+  name = "Instagram"
+  icon = "fa fa-instagram fa-2x"
+  weight = 1
+  url = "https://www.instagram.com/abdulrahmadpasaribu/"
+[[params.social]]
+  name = "Twitter"
+  icon = "fa fa-twitter fa-2x"
+  weight = 3
+  url = "https://twitter.com/abdulrpasaribu/"
+
+# Menu links
+[[menu.main]]
+  name = "Random"
+  weight = 1
+  url  = "randoms/"
+[[menu.main]]
+  name = "Portofolio"
+  weight = 2
+  url  = "portofolio"
+[[menu.main]]
+  name = "Tentang"
+  weight = 3
+  url = "about"
