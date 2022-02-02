@@ -70,9 +70,9 @@ disqusShortname = "misterabdul"
 
 # Menu links
 [[menu.main]]
-  name = "Random"
+  name = "Tulisan"
   weight = 1
-  url  = "randoms/"
+  url  = "posts/"
 [[menu.main]]
   name = "Portofolio"
   weight = 2
