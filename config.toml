@@ -56,17 +56,17 @@ disqusShortname = "misterabdul"
   name = "Facebook"
   icon = "fa fa-facebook fa-2x"
   weight = 1
-  url = "https://www.facebook.com/abdulrahmadpasaribu"
+  url = "https://www.facebook.com/misterabdul13"
 [[params.social]]
   name = "Instagram"
   icon = "fa fa-instagram fa-2x"
   weight = 1
-  url = "https://www.instagram.com/abdulrahmadpasaribu/"
+  url = "https://www.instagram.com/misterabdul13/"
 [[params.social]]
   name = "Twitter"
   icon = "fa fa-twitter fa-2x"
   weight = 3
-  url = "https://twitter.com/abdulrpasaribu/"
+  url = "https://twitter.com/misterabdul13/"
 
 # Menu links
 [[menu.main]]
