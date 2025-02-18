@@ -3,12 +3,12 @@ date: 2021-09-28T23:46:00+07:00
 draft: false
 title: "Why you should learn English"
 categories:
-  - Life Tips
+  - Tips Kehidupan
 tags:
-  - learning
-  - english
-  - life
+  - belajar
+  - bahasa inggris
   - tips
+  - kehidupan
 ---
 
 Bahkan ketika kamu bekerja di bidang yang tidak berkecimpung dengan Bahasa Inggris ataupun kamu memutuskan untuk tinggal di Indonesia seumur hidupmu, kamu sebaiknya mempelajari Bahasa Inggris, minimal sampai pada level di mana kamu bisa **mendengarkan** apa saja perkataan yang diucapkan oleh orang yang berbicara dengan Bahasa Inggris.
