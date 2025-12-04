@@ -36,7 +36,7 @@
  &lt;/tr&gt;
  &lt;tr&gt;
  &lt;td style="text-align: center"&gt;Brainfuck Interpreter &lt;img src="https://misterabdul.moe/images/screenshot_brainfuck_interpreter.png" alt="Brainfuck Interpreter"&gt;&lt;/td&gt;
- &lt;td style="text-align: left"&gt;Percobaan implementasi interpreter untuk bahasa pemrograman esoterik &lt;a href="https://id.wikipedia.org/wiki/Brainfuck" class="external-link" target="_blank" rel="noopener"&gt;Brainfuck&lt;/a&gt; dengan menggunakan bahasa Zig. Alamat repo: &lt;a href="https://github.com/misterabdul/http-server" class="external-link" target="_blank" rel="noopener"&gt;https://github.com/misterabdul/http-server&lt;/a&gt;&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;Percobaan implementasi interpreter untuk bahasa pemrograman esoterik &lt;a href="https://id.wikipedia.org/wiki/Brainfuck" class="external-link" target="_blank" rel="noopener"&gt;Brainfuck&lt;/a&gt; dengan menggunakan bahasa Zig. Alamat repo: &lt;a href="https://github.com/misterabdul/brainfuck-interpreter" class="external-link" target="_blank" rel="noopener"&gt;https://github.com/misterabdul/brainfuck-interpreter&lt;/a&gt;&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
  &lt;td style="text-align: center"&gt;Sudoku Solver &lt;img src="https://misterabdul.moe/images/screenshot_sudoku_solver.png" alt="Sudoku Solver"&gt;&lt;/td&gt;
